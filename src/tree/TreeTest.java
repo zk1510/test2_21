@@ -6,6 +6,8 @@ public class TreeTest {
 		Node.sort(root);
 		
 		//System.out.println("git test");
+		//System.out.println("git test");
+		//System.out.println("git test");
 	}
 }
 
