@@ -4,6 +4,8 @@ public class TreeTest {
 	public static void main(String[] args) {
 		Node root = new Node().init();
 		Node.sort(root);
+		
+		//System.out.println("git test");
 	}
 }
 
